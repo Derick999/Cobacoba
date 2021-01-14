@@ -1,0 +1,216 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "email": "bambang@mail.com",
+        "password": 123,
+        "role": "admin"
+      },
+      {
+        "id": 2,
+        "email": "b@mail.com",
+        "password": 123,
+        "role": "user"
+      },
+      {
+        "email": "asdasd1@mail.com",
+        "password": "asdasd1",
+        "id": 3
+      },
+      {
+        "email": "asdasd2@mail.com",
+        "password": "asdasd1",
+        "id": 4
+      },
+      {
+        "email": "bambangggg2@mail.com",
+        "password": "asdasd12",
+        "id": 5
+      },
+      {
+        "email": "mamamama1@mail.com",
+        "password": "asd123qwe",
+        "id": 6
+      },
+      {
+        "email": "zxczxcx22@gmail.com",
+        "password": "asdasd1",
+        "id": 7
+      },
+      {
+        "email": "zxczxcxzczxc222@mail.com",
+        "password": "asdasd1",
+        "id": 11
+      },
+      {
+        "email": "zxczczxxczcss2ss@mail.com",
+        "password": "asdasd1",
+        "id": 12
+      },
+      {
+        "email": "bambangggg2@gmail.com",
+        "password": "asdasd12",
+        "id": 13
+      },
+      {
+        "email": "bambangggg2@gmail.com",
+        "password": "asdasd12",
+        "id": 14
+      },
+      {
+        "email": "bambangggg2@gmail.com",
+        "password": "asdasd12",
+        "id": 15
+      },
+      {
+        "email": "bambangggg2@gmail.coma",
+        "password": "asdasd12",
+        "id": 16
+      },
+      {
+        "email": "asdf123@gmail.com",
+        "password": "asdfgh123",
+        "id": 17
+      }
+    ],
+    "categories": [
+      {
+        "id": 0,
+        "category": "All"
+      },
+      {
+        "id": 1,
+        "category": "satu"
+      },
+      {
+        "id": 2,
+        "category": "dua"
+      }
+    ],
+    "products": [
+      {
+        "id": 1,
+        "categoryID": 1,
+        "name": "apple",
+        "stock": 20,
+        "price": 5000,
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-jdYebSyujEA%2FV7Ra-93gM6I%2FAAAAAAAABRI%2FTVAfJzX0BRomFOLA4fMKKGL1Lo1UO85_ACLcB%2Fs1600%2Fgambar-buah-pisang-png_www.buahaz.com_.png&f=1&nofb=1"
+      },
+      {
+        "id": 2,
+        "categoryID": 1,
+        "name": "orange",
+        "stock": 9,
+        "price": 4000,
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-jdYebSyujEA%2FV7Ra-93gM6I%2FAAAAAAAABRI%2FTVAfJzX0BRomFOLA4fMKKGL1Lo1UO85_ACLcB%2Fs1600%2Fgambar-buah-pisang-png_www.buahaz.com_.png&f=1&nofb=1"
+      },
+      {
+        "id": 3,
+        "categoryID": 2,
+        "name": "burger",
+        "stock": 9,
+        "price": 20000,
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-jdYebSyujEA%2FV7Ra-93gM6I%2FAAAAAAAABRI%2FTVAfJzX0BRomFOLA4fMKKGL1Lo1UO85_ACLcB%2Fs1600%2Fgambar-buah-pisang-png_www.buahaz.com_.png&f=1&nofb=1"
+      },
+      {
+        "id": 4,
+        "categoryID": 2,
+        "name": "pizza",
+        "stock": 4,
+        "price": 50000,
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-jdYebSyujEA%2FV7Ra-93gM6I%2FAAAAAAAABRI%2FTVAfJzX0BRomFOLA4fMKKGL1Lo1UO85_ACLcB%2Fs1600%2Fgambar-buah-pisang-png_www.buahaz.com_.png&f=1&nofb=1"
+      },
+      {
+        "id": 5,
+        "categoryID": 3,
+        "name": "sweater",
+        "stock": 5,
+        "price": 100000,
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-jdYebSyujEA%2FV7Ra-93gM6I%2FAAAAAAAABRI%2FTVAfJzX0BRomFOLA4fMKKGL1Lo1UO85_ACLcB%2Fs1600%2Fgambar-buah-pisang-png_www.buahaz.com_.png&f=1&nofb=1"
+      }
+    ],
+    "cart": [
+      {
+        "name": "orange",
+        "categoryID": 1,
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-jdYebSyujEA%2FV7Ra-93gM6I%2FAAAAAAAABRI%2FTVAfJzX0BRomFOLA4fMKKGL1Lo1UO85_ACLcB%2Fs1600%2Fgambar-buah-pisang-png_www.buahaz.com_.png&f=1&nofb=1",
+        "qty": 5,
+        "userID": 7,
+        "price": 4000,
+        "id": 1
+      },
+      {
+        "name": "burger",
+        "categoryID": 2,
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-jdYebSyujEA%2FV7Ra-93gM6I%2FAAAAAAAABRI%2FTVAfJzX0BRomFOLA4fMKKGL1Lo1UO85_ACLcB%2Fs1600%2Fgambar-buah-pisang-png_www.buahaz.com_.png&f=1&nofb=1",
+        "qty": 5,
+        "userID": 7,
+        "price": 20000,
+        "id": 2
+      },
+      {
+        "name": "pizza",
+        "categoryID": 2,
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-jdYebSyujEA%2FV7Ra-93gM6I%2FAAAAAAAABRI%2FTVAfJzX0BRomFOLA4fMKKGL1Lo1UO85_ACLcB%2Fs1600%2Fgambar-buah-pisang-png_www.buahaz.com_.png&f=1&nofb=1",
+        "qty": 5,
+        "userID": 7,
+        "price": 50000,
+        "id": 3
+      },
+      {
+        "name": "sweater",
+        "categoryID": 3,
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-jdYebSyujEA%2FV7Ra-93gM6I%2FAAAAAAAABRI%2FTVAfJzX0BRomFOLA4fMKKGL1Lo1UO85_ACLcB%2Fs1600%2Fgambar-buah-pisang-png_www.buahaz.com_.png&f=1&nofb=1",
+        "qty": 4,
+        "userID": 7,
+        "price": 100000,
+        "id": 4
+      },
+      {
+        "name": "apple",
+        "categoryID": 1,
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-jdYebSyujEA%2FV7Ra-93gM6I%2FAAAAAAAABRI%2FTVAfJzX0BRomFOLA4fMKKGL1Lo1UO85_ACLcB%2Fs1600%2Fgambar-buah-pisang-png_www.buahaz.com_.png&f=1&nofb=1",
+        "qty": 2,
+        "userID": 7,
+        "price": 5000,
+        "id": 5
+      },
+      {
+        "name": "pizza",
+        "categoryID": 2,
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-jdYebSyujEA%2FV7Ra-93gM6I%2FAAAAAAAABRI%2FTVAfJzX0BRomFOLA4fMKKGL1Lo1UO85_ACLcB%2Fs1600%2Fgambar-buah-pisang-png_www.buahaz.com_.png&f=1&nofb=1",
+        "qty": 4,
+        "userID": 11,
+        "price": 50000,
+        "id": 6
+      },
+      {
+        "name": "sweater",
+        "categoryID": 3,
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-jdYebSyujEA%2FV7Ra-93gM6I%2FAAAAAAAABRI%2FTVAfJzX0BRomFOLA4fMKKGL1Lo1UO85_ACLcB%2Fs1600%2Fgambar-buah-pisang-png_www.buahaz.com_.png&f=1&nofb=1",
+        "qty": 5,
+        "userID": 11,
+        "price": 100000,
+        "id": 7
+      }
+    ],
+    "transaction": [
+      {
+        "date": "14-0-2021",
+        "total": 800000,
+        "items": [
+          {
+            "name": "pizza",
+            "categoryID": 2,
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-jdYebSyujEA%2FV7Ra-93gM6I%2FAAAAAAAABRI%2FTVAfJzX0BRomFOLA4fMKKGL1Lo1UO85_ACLcB%2Fs1600%2Fgambar-buah-pisang-png_www.buahaz.com_.png&f=1&nofb=1",
+            "qty": 16,
+            "userID": 16,
+            "price": 50000,
+            "id": 8
+          }
+        ],
+        "userID": 16,
+        "id": 1
+      }
+    ]
+  }
